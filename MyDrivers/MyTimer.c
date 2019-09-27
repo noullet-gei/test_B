@@ -13,11 +13,6 @@
 #include "stm32f103xb.h" 
 #include "MyTimer.h"
 
-static void (*IT1_callback)(void);
-static void (*IT2_callback)(void);
-static void (*IT3_callback)(void);
-static void (*IT4_callback)(void);
-
 /**
 	* @brief  Active l'horloge et règle l'ARR et le PSC du timer visé
   * @note   Fonction à lancer avant toute autre. Le timer n'est pas encore lancé (voir MyTimerStart)
