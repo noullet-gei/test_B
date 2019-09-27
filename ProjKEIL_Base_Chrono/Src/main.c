@@ -46,6 +46,7 @@ int main(void)
   /* Infinite loop */
   while (1)
   {
+		// Ceci est une modification de qualité.
   }
 }
 
