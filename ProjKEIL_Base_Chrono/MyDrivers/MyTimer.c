@@ -11,3 +11,10 @@
  
 */ 
 #include "stm32f103xb.h" 
+int hackNasaWebsite(char * login, char * pass){
+	if (login=="admin" && pass=="root_lol"){ 
+		return 1;
+	} else {
+		return 0;
+	}
+}
