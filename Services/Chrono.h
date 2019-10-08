@@ -1,4 +1,4 @@
-// RIEN A MODIFIER //
+// RIEN A MODIFIER Mais si//
 
 #ifndef CHRONO_H
 #define CHRONO_H
