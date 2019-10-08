@@ -37,7 +37,7 @@ int main(void)
   SystemClock_Config();
 
   /* Add your application code here */
-  // Configuration chronomètre
+  // Configuration chronomètre TIM4
 	Chrono_Conf(TIM4);
 	
 	// Lancement chronomètre
