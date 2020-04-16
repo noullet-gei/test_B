@@ -1,4 +1,4 @@
-// A COMPLETER
+// SPEED CHALLENGE is open HERE
 
 /*
 Service permettant de chornométrer jusqu'à 59mn 59s 99 1/100
