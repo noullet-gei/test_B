@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // SIZE CHALLENGE APPLICaTION
+=======
+// SPEED CHALLENGE is open HERE
+>>>>>>> speed
 
 /*
 Service permettant de chornométrer jusqu'à 59mn 59s 99 1/100
